@@ -1,7 +1,7 @@
 # Spectral-Parameterization-Trials
 Function for estimating event-related changes in the aperiodic and periodic component of electrophysiological data.
 
-This approach relies on two previously validated analyses, one for parameterizing the power spectrum of a stationary signal (__FOOOF__, developed by Donoghue et al., 2018), and one for parameterizing the power spectrum of a dynamic signal (__SPRiNT__, developed by Wilson et al., 2020). It integrates them and performs some  intermediate analyses steps so they can be applied to event-related data.
+This approach relies on two previously validated analyses, one for parameterizing the power spectrum of a stationary signal (__FOOOF__, developed by Donoghue et al., 2018), and one for parameterizing the power spectrum of a dynamic signal (__SPRiNT__, developed by Wilson et al., 2020). It integrates them and performs some  intermediate analyses so they can be applied to event-related data.
 
 ## Details
 In short, this function:
