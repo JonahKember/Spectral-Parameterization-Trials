@@ -7,7 +7,7 @@ This approach relies on two previously validated analyses, one for parameterizin
 In short, this function:
 1. Applies the Short-time Fourier transform portion of __SPRiNT__ to the time-series of each trial.
 2. Averages each time-window across trials.
-3. Fits the power spectrum of this trial-average using __FOOOF__.
+3. Fits the power spectrum of this trial-average within each time-window using __FOOOF__.
 4. Outputs dynamic changes in the spectrum parameters over time.
 
 ## Useage
